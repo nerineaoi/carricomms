@@ -1,0 +1,44 @@
+CarriComms — Official Color Palette
+==================================
+
+PRIMARY COLOR
+-------------
+#B10086   Deep Tech Magenta (brand identity)
+
+
+GRADIENT COLORS (for logo-glow version)
+---------------------------------------
+#B10086   Base magenta (outer edges)
+#C236A1   Mid-magenta (soft gradient midpoint)
+#D350B3   Highlight-magenta (inner glow)
+#E06CC4   Subtle-light glow (optional)
+
+
+ACCENT COLORS
+--------------
+#7A005F   Dark accent (pupils, thin details)
+#E888D2   Light accent (hover effects, soft shine)
+
+
+OUTLINE / SHADOW (recommended)
+------------------------------
+#4B0039   Deep shadow (thin outline)
+#2A0020   Ultra-deep shadow (very dark edge, optional)
+
+
+UI NEUTRALS (recommended for app or website)
+--------------------------------------------
+#0F0F12   Dark mode background
+#1A1A1F   Dark mode surface
+#FFFFFF   Light mode background
+#F6F6F8   Light mode surface
+#CFCFD5   Light gray text/accent
+
+
+NOTES
+-----
+- Use #B10086 for all solid logo variants.
+- Use the gradient set ONLY for splash screens, banners, thumbnails, or large-scale visuals.
+- Pupils should use #7A005F or darker for contrast and readability.
+- Outlines should be minimal (1–2px) with #4B0039 for crisp edges.
+- UI elements should use neutrals paired with magenta accents.
