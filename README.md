@@ -77,4 +77,4 @@ Full security documentation will be added at release.
 **Apache License 2.0**  
 See `LICENSE` for details.
 
-CarriComms © 2025 Ana Vertedor (Neri)
+CarriComms © 2025 Nerine Aoi (byneriaoi)
