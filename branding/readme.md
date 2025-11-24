@@ -10,7 +10,8 @@ These assets represent the visual identity of the application and should be used
 | File | Description |
 |------|-------------|
 | `logo.png` | Primary CarriComms logo (transparent background). |
-| `palette.txt` | Branding color palette |
+| `palette.txt` | Branding color palette. |
+|`splash.png` | Splash Screen for app load. |
 
 
 ---
