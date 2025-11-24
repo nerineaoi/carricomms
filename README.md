@@ -21,7 +21,7 @@ It’s built to simplify stream moderation, archive chat activity, and give crea
 
 ---
 
-## ✨ Features (Public-Safe)
+## ✨ Features 
 - **Discord Bot Integration**  
   Automatically creates or connects to a bot and routes messages into a chosen channel.
 
@@ -62,7 +62,7 @@ Full security documentation will be added at release.
 
 ---
 
-## 🛣 Public Roadmap (Safe)
+## 🛣 Public Roadmap 
 - [ ] Public beta  
 - [ ] Platform toggles  
 - [ ] Auto-mod presets  
