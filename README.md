@@ -70,7 +70,7 @@ Full security documentation will be added at release.
 - [ ] Installer packages (Win/Mac/Linux)  
 - [ ] Discord slash commands  
 - [ ] Log viewer
-
+For the full roadmap, see 👉 [ROADMAP.md](./ROADMAP.md)
 ---
 
 ## 📝 License
