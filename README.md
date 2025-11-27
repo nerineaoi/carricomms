@@ -10,7 +10,7 @@ Now with a destiny-worthy upgrade:
 **One hub to sync all chats.**
 ---
 
-![CarriComms Overview](./docs/overview.png)
+![CarriComms Overview](./docs/overview_v2.png)
 
 ## 🚀 What is CarriComms?
 CarriComms is a lightweight, CPU‑friendly, multi‑platform stream companion that unifies chat from **Twitch**, **YouTube**, and **Kick** into a single clean interface — plus notifications, supporter tracking, and basic moderation tools.
