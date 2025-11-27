@@ -60,14 +60,6 @@ Future diagrams should continue the pattern.
 
 ---
 
-# 📌 Notes
-
-- Do NOT include TFG materials here.
-- Public repo diagrams show full vision up to **v6.0**.
-- Private repo will contain TFG-only diagrams (v1.5).
-
----
-
 # 🖼 Diagrams
 
 Upload your PNGs into this folder and link them below:
