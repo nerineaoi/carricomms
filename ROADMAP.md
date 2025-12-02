@@ -5,9 +5,11 @@ All items listed here are *safe* for public visibility and do not reveal proprie
 
 CarriComms will evolve in three major phases:
 
-- **v1.0 – Chat Relay (Current Focus)**
-- **v2.0 – AI Assistant / Auto-Mod**
-- **v3.0 – Cross-Platform Moderation & 2-Way Interaction**
+- **v1.0–2.5** – Core app: unified chat, supporter inbox, notifications, basic mod tools.
+- **v3.0+** – Deeper Twitch / YouTube / Kick integrations.
+- **v4.0+** – Discord Bridge (Cipher Bot).
+- **v5.0+** – OBS Integration.
+- **v6.0+** – Mobile Companion (CarriComms on the go).
 
 Each version builds on the previous one while keeping the complexity manageable and ensuring earlier releases ship quickly.
 
