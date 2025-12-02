@@ -13,6 +13,18 @@ CarriComms will evolve in three major phases:
 
 Each version builds on the previous one while keeping the complexity manageable and ensuring earlier releases ship quickly.
 
+Version Status:
+
+| Version | Focus Area                      | Status      |
+|---------|---------------------------------|-------------|
+| 1.x     | Core relay + UI                 | IN DEV      |
+| 2.x     | AI assistant + Auto-Mod         | PLANNED     |
+| 3.x     | 2-way chat + mod tools          | PLANNED     |
+| 4.x     | Discord Bridge (Cipher Bot)     | PLANNED     |
+| 5.x     | OBS Integration                 | PLANNED     |
+| 6.x     | Mobile Companion App            | PLANNED     |
+
+
 ---
 
 # ✅ **v1.0 – Multi-Platform Chat Relay (MVP)**  
