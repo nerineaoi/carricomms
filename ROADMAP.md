@@ -1,9 +1,11 @@
-# 🌟 CarriComms – Public Roadmap
+oh s# 🌟 CarriComms – Public Roadmap
 
 This roadmap outlines the planned evolution of CarriComms from a simple multi-platform chat relay into a powerful, AI-assisted streaming companion.  
 All items listed here are *safe* for public visibility and do not reveal proprietary implementation details.
 
 CarriComms will evolve in three major phases:
+
+*Version numbers reflect capability tiers, not calendar deadlines.*
 
 - **v1.0–2.5** – Core app: unified chat, supporter inbox, notifications, basic mod tools.
 - **v3.0+** – Deeper Twitch / YouTube / Kick integrations.
