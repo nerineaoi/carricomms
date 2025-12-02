@@ -8,6 +8,18 @@
 > **CarriComms = carry your comms — not your games.**  
 Now with a destiny-worthy upgrade:  
 **One hub to sync all chats.**
+
+CarriComms = carry your comms — not your games.
+Now with a destiny-worthy upgrade:
+One hub to sync all chats.
+
+> **Integration Note:**  
+> Feature availability may vary per platform depending on API limits, reliability, or public endpoints.  
+> CarriComms always prioritizes:  
+> 1) Stability  
+> 2) API-safe features  
+> 3) Cross-platform consistency
+
 ---
 
 ![CarriComms Overview](./docs/overview_v2.png)
