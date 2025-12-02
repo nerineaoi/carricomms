@@ -91,13 +91,9 @@ CarriComms-Public/
 │   └── concepts/
 │
 ├── media/
-│   ├── banners/
-│   └── promos/
-│
-└── TFG/
-    ├── memoria.md
-    ├── requisitos.md
-    └── entregables/
+    ├── banners/
+    └── promos/
+
 ```
 
 All technical implementation details remain private.
