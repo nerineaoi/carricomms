@@ -56,6 +56,12 @@ Includes:
 - Basic caps/spam detection  
 - Temporary flagged‑message storage  
 
+## Planned Components
+
+- **Discord Bridge (Cipher Bot)** – Discord relay + mod tools (v4.0+)
+- **OBS Integration** – Custom docks and overlays for viewing CarriComms inside OBS (v5.0+)
+- **Mobile Companion App** – Push notifications, mod tools on the go (v6.0+)
+
 ---
 
 ## 🛠 Tech Stack
