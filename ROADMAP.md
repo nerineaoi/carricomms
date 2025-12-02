@@ -54,8 +54,8 @@ Each version builds on the previous one while keeping the complexity manageable 
 - “Important message” tagging  
 - Behind-the-scenes auto-responses (Discord-side only)  
 
-### ✔ Platform-Native Bot (No 2-Way Needed Yet)
-CarriComms will include an optional companion bot account (“CarriBot”) for:
+### ✔ Platform-Native Bot (No 2-Way Yet)
+CarriComms will include an optional companion bot account (“Cipher”) for:
 - Sending auto-mod warnings  
 - Answering common questions  
 - Triggering routine commands  
